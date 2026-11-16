@@ -6,7 +6,7 @@
 *Problem Solver in C/C++ • Creative UI/UX & Pixel Art Enthusiast • Building Fun Web Experiences*
 
 [![LinkedIn](https://shields.io)]([https://linkedin.com](https://linkedin.com/in/thevidhipandey))
-[![CodeChef](https://shields.io)]([https://codechef.com](https://www.codechef.com/users/thevidhipandey))
+[![CodeChef](https://shields.io)](https://www.codechef.com/users/thevidhipandey)
 [![Email](https://shields.io)](mailto:thevidhipandey@gmail.com)
 
 </div>
