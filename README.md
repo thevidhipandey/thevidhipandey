@@ -1,9 +1,9 @@
 <div align="center">
 
-# Hi there, I'm Vidhi Pandey! 👋
+# Hi there, I'm Vidhi Pandey! 
 
-**1st-Year B.Tech CSE Student @ Manipal University Jaipur**  
-*Problem Solver in C/C++ • Creative UI/UX & Pixel Art Enthusiast • Building Fun Web Experiences*
+**1st-Year B.Tech CSE Student**  
+*Problem Solver in C/C++ • Creative UI/UX & Art Enthusiast • Building Fun Web Experiences*
 
 🔗 **[LinkedIn](https://linkedin.com)** • 💻 **[CodeChef](https://codechef.com)** • 📧 **[Email Me](mailto:thevidhipandey@gmail.com)**
 
